@@ -1,0 +1,1 @@
+Enable logging at the proxy. Retain access events and verify timestamps before correlating alerts.

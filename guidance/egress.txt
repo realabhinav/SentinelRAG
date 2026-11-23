@@ -1,0 +1,1 @@
+Review egress policy. Restrict outbound destinations to approved services and record exceptions.

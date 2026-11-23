@@ -1,0 +1,1 @@
+Maintain an inventory of assets, owners and review dates. Assign responsibility when ownership is missing.

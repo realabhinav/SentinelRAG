@@ -1,0 +1,1 @@
+Identity access reviews compare assigned privileges with current job responsibilities.
